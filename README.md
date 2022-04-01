@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afolabi (@Measteek) 
 - 👀 I’m interested in Data Anylysis, Machine Learning and Computer Vision
-- 🌱 I’m currently learning Full Stack Data Analysis
+- 🌱 I’m currently learning Full Stack Data Science
 - 💞️ I’m looking to collaborate on Data Analysis, AI Engineering, Machine Learning, Deep Learning
 - 📫 How to reach me : abdulquyyumafolabi@gmail.com, +2348136730340
 
